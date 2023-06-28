@@ -1,0 +1,205 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "965529",
+      "name": "证书",
+      "font_class": "zhengshu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "970759",
+      "name": "证书",
+      "font_class": "zhengshu-copy",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1002286",
+      "name": "工作经历",
+      "font_class": "gongzuojingli",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1287693",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "2305494",
+      "name": "比赛",
+      "font_class": "bisai",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2584374",
+      "name": "科研",
+      "font_class": "keyan",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "3775431",
+      "name": "发表论文",
+      "font_class": "fabiaolunwen",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "3819716",
+      "name": "专业知识技能",
+      "font_class": "zhuanyezhishijineng",
+      "unicode": "e7b6",
+      "unicode_decimal": 59318
+    },
+    {
+      "icon_id": "3826856",
+      "name": "自我评价",
+      "font_class": "ziwopingjia",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "3893840",
+      "name": "自我评价",
+      "font_class": "ziwopingjia1",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "5220739",
+      "name": "足球",
+      "font_class": "zuqiu",
+      "unicode": "e527",
+      "unicode_decimal": 58663
+    },
+    {
+      "icon_id": "5220974",
+      "name": "足球",
+      "font_class": "zuqiu1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "6342527",
+      "name": "科研系统",
+      "font_class": "keyanxitong",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "6977920",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7444191",
+      "name": "教育科研",
+      "font_class": "jiaoyukeyan",
+      "unicode": "e883",
+      "unicode_decimal": 59523
+    },
+    {
+      "icon_id": "7556325",
+      "name": "证书",
+      "font_class": "zhengshu1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "8414565",
+      "name": "论文发表数量",
+      "font_class": "lunwenfabiaoshuliang",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "8414567",
+      "name": "科研经费",
+      "font_class": "keyanjingfei",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "9671950",
+      "name": "足球",
+      "font_class": "zuqiu2",
+      "unicode": "e8bf",
+      "unicode_decimal": 59583
+    },
+    {
+      "icon_id": "14656283",
+      "name": "软著预测",
+      "font_class": "ruanzhuyuce",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "15095202",
+      "name": "科研",
+      "font_class": "keyan1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "16675974",
+      "name": "比赛管理",
+      "font_class": "bisaiguanli",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "17605462",
+      "name": "地址",
+      "font_class": "dizhi1",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    },
+    {
+      "icon_id": "23768648",
+      "name": "科研中心",
+      "font_class": "a-guihuatubiaoyuanwenjianFarlim_huaban1fuben50",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "24103576",
+      "name": "足球",
+      "font_class": "zuqiu3",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "27499672",
+      "name": "项目经历-04",
+      "font_class": "xiangmujingli-04",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "27861443",
+      "name": "比赛",
+      "font_class": "bisai1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "34210325",
+      "name": "比赛",
+      "font_class": "bisai2",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
